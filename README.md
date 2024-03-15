@@ -30,8 +30,8 @@ Para executar este código, é necessário ter instalado:
 Para configurar o banco de dados PostgreSQL, siga estes passos:
 
 1. Instale o **PostgreSQL** em seu ambiente local, se ainda não estiver instalado.
-2. Execute o script SQL fornecido (`create_table.sql`) para criar a tabela "Execution" no banco de dados.
-3. Certifique-se de que as credenciais de conexão ao banco de dados estão corretas no código-fonte (`DataBase.cs`).
+2. Execute o script SQL fornecido (`Execution.sql`) para criar a tabela "Execution" no banco de dados.
+3. Certifique-se de que as credenciais de conexão ao banco de dados estão corretas no código-fonte (`Process.cs`).
 
 ### Nota
 
